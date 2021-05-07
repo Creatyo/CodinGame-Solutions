@@ -32,3 +32,4 @@ In the table below you can see which puzzles I already completed for each catego
 | No. | Puzzle Name                                                                                                                       | Difficulty | Languages|
 |-----|-----------------------------------------------------------------------------------------------------------------------------------|------------|----------|
 | 1   | [skynet revolution episode 1](https://www.codingame.com/training/medium/skynet-revolution-episode-1)                              | Medium     | [C++](https://github.com/Creatyo/CodinGame-Solutions/blob/main/Puzzles/MediumPuzzle/C%2B%2B/skynet-revolution-episode-1.cpp)|
+| 2   | [the last crusade episode 1](https://www.codingame.com/training/medium/the-last-crusade-episode-1)                                | Medium     | [C++]()|
