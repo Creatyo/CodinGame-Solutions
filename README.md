@@ -15,7 +15,7 @@ More than that, if you have a better solution, help me and modify my code, it ca
 
 In the table below you can see which puzzles I already completed for each categories :  easy, medium and hard.
 
-## Easy Puzzles
+## [Easy Puzzles](https://www.codingame.com/training/easy)
 | No. | Puzzle Name                                                                                                                       | Difficulty | Languages|
 |-----|-----------------------------------------------------------------------------------------------------------------------------------|------------|----------|
 | 1   | [temperatures](https://www.codingame.com/training/easy/temperatures)                                                              | Easy       | [C](https://github.com/Creatyo/CodinGame-Solutions/blob/main/Puzzles/EasyPuzzle/C/Temperatures.c), [C++](https://github.com/Creatyo/CodinGame-Solutions/blob/main/Puzzles/EasyPuzzle/C%2B%2B/Temperatures.cpp), [C#](https://github.com/Creatyo/CodinGame-Solutions/blob/main/Puzzles/EasyPuzzle/C%23/Temperatures.cs) |
@@ -27,3 +27,8 @@ In the table below you can see which puzzles I already completed for each catego
 | 7   | [defibrillators](https://www.codingame.com/training/easy/defibrillators)                                                          | Easy       | [C++](https://github.com/Creatyo/CodinGame-Solutions/blob/main/Puzzles/EasyPuzzle/C%2B%2B/defibrillators.cpp), [C#](https://github.com/Creatyo/CodinGame-Solutions/blob/main/Puzzles/EasyPuzzle/C%23/defibrillators.cs)|
 | 8   | [lumen](https://www.codingame.com/training/easy/lumen)                                                                            | Easy       | [C++](https://github.com/Creatyo/CodinGame-Solutions/blob/main/Puzzles/EasyPuzzle/C%2B%2B/lumen.cpp)|
 | 9   | [ghost legs](https://www.codingame.com/ide/puzzle/ghost-legs)                                                                     | Easy       | [C++](https://github.com/Creatyo/CodinGame-Solutions/blob/main/Puzzles/EasyPuzzle/C%2B%2B/ghost-legs.cpp)|
+
+## [Medium Puzzles](https://www.codingame.com/training/medium)
+| No. | Puzzle Name                                                                                                                       | Difficulty | Languages|
+|-----|-----------------------------------------------------------------------------------------------------------------------------------|------------|----------|
+| 1   | [skynet revolution episode 1](https://www.codingame.com/training/medium/skynet-revolution-episode-1)                              | Medium     | [C++](https://github.com/Creatyo/CodinGame-Solutions/blob/main/Puzzles/MediumPuzzle/C%2B%2B/skynet-revolution-episode-1.cpp)|
